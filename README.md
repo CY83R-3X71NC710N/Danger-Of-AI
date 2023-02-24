@@ -1,4 +1,4 @@
-# Danger-Of-AI
+# Danger-Of-AI (Written by AI)
 In this article I will look at the dangers of AI specifically putting an emphasis on how it will impact human knowledge in a negative way.
 
 AI (Artificial Intelligence) is an emerging technology that has been gaining prominence over the past decade, and its possibilities are infinite. AI-enabled technologies are capable of completing complex tasks, faster and more accurately than humans. A major concern about AI is that it has the potential to take away jobs from humans and replace them with robots. Furthermore, AI can be used to censor and restrict access to a certain type of information, limiting knowledge that could potentially benefit people.
